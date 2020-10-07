@@ -1,6 +1,7 @@
 ## My Eclipse Workspace for java paratical work during my last year studies
 
-This repository contains different small exercices in java programming, hope you find something useful, it covers :
+This repository contains different small exercices in java programming, hope you find something useful.
+it covers :
 
 - Java POO (Encapsulation, Abstraction, Inheritance, Polymorphism ...)
 - Java Packages
